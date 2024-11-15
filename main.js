@@ -1,3 +1,7 @@
+
+// todo: we could experiment with polar coordinate averaging and derivative/change averaging
+// todo normalize n points by length, otherwise areas where you draw slowly have more impact
+
 const paths = []
 let avgPath = []
 
